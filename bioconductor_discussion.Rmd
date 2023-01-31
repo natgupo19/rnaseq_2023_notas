@@ -1,0 +1,39 @@
+---
+title: "Bioconductor discussion"
+author: "Natalia Gutiérrez Ponce"
+date: "2023-01-31"
+output: html_document
+---
+
+## RESOLVE: An R package for the efficient analysis of mutational signatures from cancer genomes
+
+Autores: Daniele Ramazzotti y Luca De Sano
+
+Citation (from within R, enter citation("RESOLVE")):
+
+Resumen: RESOLVE (estimación robusta de firmas mutacionales a través de la regularización) implementa un algoritmo novedoso que permite (i) la extracción eficiente, (ii) la estimación de la exposición y (iii) la evaluación de la confianza durante la inferencia computacional de firmas mutacionales. El estudio de las firmas mutacionales se ha convertido en un componente estándar de los estudios genómicos modernos, ya que puede revelar qué procesos mutagénicos (ambientales y endógenos) están activos en un tumor y puede resaltar marcadores de respuesta terapéutica.
+
+se encuentra en el lugar 2163 de 2183 en descargas, el paquete aún no recibe preguntas, cuenta con 99 dependencias y lleva menos de 6 meses en bioconductor.
+
+
+## CrisprDesign
+
+Autores: Jean-Philippe Fortin y Luke Hoberecht
+
+Citation (from within R, enter citation("crisprDesign")):
+
+Resumen: Proporciona un conjunto integral de funciones para diseñar y anotar secuencias de ARN guía (ARNg) CRISPR. Esto incluye búsqueda dentro y fuera del objetivo, puntuación de eficiencia en el objetivo, puntuación fuera del objetivo, anotaciones contextuales TSS y de genes completos, y anotación SNP (solo humanos). Se admiten todos los tipos de nucleasas y todos los tipos de editores básicos y cuenta con 5 tipos de modalidades CRISPR: eliminación, activación, inhibición y edición de base.
+
+Se ecuentra en el lugar 2096 de 2183 en descargas, el paquete aún no recibe preguntas, cuenta con 146 dependencias y lleva menos de 6 meses en bioconductor.
+
+
+## RgnTX: Análisis de colocalización de elementos del transcriptoma en presencia de heterogeneidad y ambigüedad de isoformas
+
+Autores: Yue Wang y Jia Meng
+
+Citation (from within R, enter citation("RgnTX")):
+
+RgnTX permite la integración de anotaciones transcriptómicas para modelar los patrones de empalme alternativos complejos. Admite la prueba de elementos del transcriptoma sin una asociación clara de isoformas.
+
+Se encuentra en el lugar 2141 de 2183 en descargas, el paquete aún no recibe preguntas, cuenta con 115 dependencias y lleva menos de 6 meses en bioconductor.
+
