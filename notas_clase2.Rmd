@@ -1,0 +1,41 @@
+---
+title: "Leo Collado 2"
+author: "Natalia Gutiérrez Ponce"
+date: "2023-02-01"
+output: html_document
+---
+## Summarized Experiment
+- assay: matriz de datos de expresión.        
+- rowRanges: coordenadas de los genes. -> chr start end strand
+- colData: información para cada muestra.
+
+## GRanges
+- seqnames
+- ranges
+- strand
+
+## IRanges: almacenar información que se repite de manera eficiente
+- Rle: run length encoded -> cuántas veces aparece cada cromosoma
+
+rtracklayer: importar diferentes archivos a R
+
+## iSEE
+interactive SummarizedExperiment Explorer
+
+
+## SingleCellExperiment
+Expande el objeto de SummarizedExperiment
+
+
+## ReCount
+Procesamiento de información RNA-seq
+- 5 tipos de análisis diferentes en página web
+- recount3: procesar info de RNA-seq de ratones y humanxs
+- democratizar información
+
+
+## Research Symbionts
+Ayuda a hacer públicos ciertos datos científicos.
+
+
+
